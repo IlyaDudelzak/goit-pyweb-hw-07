@@ -1,0 +1,7 @@
+.*/
+dist/
+scripts/
+*/__pycache__/
+scripts/
+logs/
+app/db
